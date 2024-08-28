@@ -10,11 +10,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // Define sample sellers for testing
 var sellers = [
-    { name: "Seller 1", lat: 28.6139, lon: 77.2090, items: "Fruits", price: "100 INR", image: "assets/images/farmer1.jpg" },
-    { name: "Seller 2", lat: 28.6149, lon: 77.2100, items: "Vegetables", price: "200 INR", image: "assets/images/farmer2.jpg" },
-    { name: "Seller 3", lat: 28.6159, lon: 77.2110, items: "Fruits", price: "150 INR", image: "assets/images/farmer3.jpg" },
-    { name: "Seller 4", lat: 28.6169, lon: 77.2120, items: "Vegetables", price: "120 INR", image: "assets/images/farmer4.jpg" },
-    { name: "Seller 5", lat: 28.6179, lon: 77.2130, items: "Fruits", price: "130 INR", image: "assets/images/farmer5.jpg" }
+    { name: "Seller 1", lat: 28.6139, lon: 77.2090, items: "Fruits", price: "100 INR", image: "assets/images/farmer1.jpg", phone: "911234567890" },
+    { name: "Seller 2", lat: 28.6149, lon: 77.2100, items: "Vegetables", price: "200 INR", image: "assets/images/farmer2.jpg", phone: "911234567890" },
+    { name: "Seller 3", lat: 28.6159, lon: 77.2110, items: "Fruits", price: "150 INR", image: "assets/images/farmer3.jpg", phone: "911234567890" },
+    { name: "Seller 4", lat: 28.6169, lon: 77.2120, items: "Vegetables", price: "120 INR", image: "assets/images/farmer4.jpg", phone: "911234567890" },
+    { name: "Seller 5", lat: 28.6179, lon: 77.2130, items: "Fruits", price: "130 INR", image: "assets/images/farmer5.jpg", phone: "911234567890" }
 ];
 
 // Add markers to the map

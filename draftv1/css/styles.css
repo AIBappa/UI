@@ -1,61 +1,121 @@
-/* styles.css */
+/* Define default CSS variables for mobile portrait orientation */
+:root {
+    --container-width: 360px;
+    --container-height: 640px;
+    --image-size: 10px;
+    --arrow-size: 25px;
+    --font-size: 20px;
+    --whatsapp-icon-size: 20px;
+}
+
+/* Landscape orientation (wider than tall) */
+@media (orientation: landscape) {
+    :root {
+        --container-width: 640px;
+        --container-height: 360px;
+        --image-size: 12px;
+        --arrow-size: 28px;
+        --font-size: 22px;
+        --whatsapp-icon-size: 22px;
+    }
+}
+
+/* Medium screens (tablets, small laptops) */
+@media (min-width: 600px) and (orientation: portrait) {
+    :root {
+        --container-width: 480px;
+        --container-height: 800px;
+        --image-size: 15px;
+        --arrow-size: 30px;
+        --font-size: 24px;
+        --whatsapp-icon-size: 25px;
+    }
+}
+
+@media (min-width: 600px) and (orientation: landscape) {
+    :root {
+        --container-width: 800px;
+        --container-height: 480px;
+        --image-size: 18px;
+        --arrow-size: 32px;
+        --font-size: 26px;
+        --whatsapp-icon-size: 28px;
+    }
+}
+
+/* Large screens (laptops, desktops) */
+@media (min-width: 1024px) {
+    :root {
+        --container-width: 768px;
+        --container-height: 1024px;
+        --image-size: 20px;
+        --arrow-size: 35px;
+        --font-size: 28px;
+        --whatsapp-icon-size: 30px;
+    }
+}
 
 /* Container for the map and info box */
 .app-container {
     position: relative;
-    width: 360px; /* Approximate width of Android device in pixels */
-    height: 640px; /* Approximate height of Android device in pixels */
+    width: var(--container-width);
+    height: var(--container-height);
     margin: auto;
-    background-color: #f0f0f0; /* Light background color */
+    background-color: #f0f0f0;
 }
 
 /* Map container size */
 #map {
     width: 100%;
-    height: 80%; /* Adjust this value to control map height relative to container */
+    height: 100%;
 }
 
 /* Info box size */
 .info-box {
     position: absolute;
-    bottom: 0;
+    bottom: 1;
     width: 100%;
-    max-height: 20%; /* Adjust to fit within the container */
+    max-height: 40%;
     background-color: white;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     padding: 5px;
     box-sizing: border-box;
-    z-index: 1000; /* Ensure it appears above other elements */
+    z-index: 1000;
+    justify-content: space-between; /* Space between the arrows and content */
 }
 
 .info-content {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     width: 100%;
-}
-
-#farmer-image {
-    width: 50px; /* Adjust size for a smaller image */
-    height: 50px; /* Adjust size for a smaller image */
-    border-radius: 8px;
-    margin-right: 10px;
-}
-
-.arrow {
-    width: 25px; /* Adjust size */
-    text-align: center;
-    cursor: pointer;
-    font-size: 20px; /* Adjust size */
-    user-select: none;
-    line-height: 25px; /* Vertically center the arrow */
+    justify-content: center; /* Center the content */
 }
 
 .left-arrow, .right-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: var(--arrow-size);
+    height: var(--arrow-size);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: var(--font-size);
     background-color: white;
     border: 1px solid #ddd;
     border-radius: 50%;
+    z-index: 1001;
+}
+
+.left-arrow {
+    left: 100px; /* Position the left arrow */
+}
+
+.right-arrow {
+    right: 100px; /* Position the right arrow */
 }
 
 .arrow:hover {
@@ -63,12 +123,12 @@
 }
 
 .arrow:active {
-    transform: scale(0.9);
+    transform: translateY(-50%) scale(0.9);
 }
 
 .marker-icon {
     color: blue;
-    font-size: 20px; /* Adjust size for marker */
+    font-size: var(--font-size);
 }
 
 .marker-icon.selected {
@@ -77,4 +137,25 @@
 
 .hidden {
     display: none;
+}
+
+/* WhatsApp link styling */
+.whatsapp-icon {
+    width: var(--whatsapp-icon-size);
+    height: var(--whatsapp-icon-size);
+    margin-right: 5px;
+    vertical-align: sub;
+}
+
+#whatsapp-link {
+    color: #25D366;
+    text-decoration: none;
+    font-weight: bold;
+    display: flex;
+    align-items: left;
+    margin-top: 5px;
+}
+
+#whatsapp-link:hover {
+    text-decoration: underline;
 }

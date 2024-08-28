@@ -57,3 +57,33 @@ function addArrowEventListeners() {
         }
     });
 }
+
+// box-layout.js
+
+function updateInfoBox(index) {
+    const seller = sellers[index];
+    
+    // Update the image, name, items, and price
+    document.getElementById('farmer-image').src = seller.image;
+    document.getElementById('farmer-name').textContent = seller.name;
+    document.getElementById('farmer-items').textContent = `Items: ${seller.items}`;
+    document.getElementById('farmer-price').textContent = `Price: ${seller.price}`;
+    
+    // Update WhatsApp link
+    const whatsappLink = document.getElementById('whatsapp-link');
+    whatsappLink.href = `https://wa.me/${seller.phone}?text=I'm%20interested%20in%20your%20products.`;
+    whatsappLink.classList.remove('hidden');
+    
+    // Show the info box if it was hidden
+    document.getElementById('info-box').classList.remove('hidden');
+    
+    // Highlight selected marker and update map view
+    markers.forEach((marker, idx) => {
+        if (idx === index) {
+            marker.getElement().style.color = 'orange';
+        } else {
+            marker.getElement().style.color = 'blue';
+        }
+    });
+}
+
