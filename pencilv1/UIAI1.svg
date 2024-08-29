@@ -1,0 +1,357 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="331px" height="761px" viewBox="-0.5 -0.5 331 761" content="&lt;mxfile&gt;&lt;diagram id=&quot;tfpPzDeQFeXtmKaHoX_b&quot; name=&quot;Map View&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;SmP3wbOPJFnjno1DVrge&quot; name=&quot;List View&quot;&gt;ddHBDoMgDADQr+GOkE3vzm0XTx52JtIJCVqDLLp9/TTgHHE7UV4LJYXwvJ0uVvSqRAmGMConwk+EsYQlx3lZ5OklzVIPjdUyFG1Q6RcEpEEfWsIQFTpE43QfY41dB7WLTFiLY1x2RxN37UUDO6hqYfZ609Ipr9mBbn4F3ai1c0JDphVrcYBBCYnjF/GC8NwiOh+1Uw5mGd46F3/u/Cf7eZiFzv04MAfb3fMm+iFevAE=&lt;/diagram&gt;&lt;diagram id=&quot;gPYrcy_vCGg7CjCH5kr4&quot; name=&quot;Page-3&quot;&gt;ddHBDoMgDADQr+GOkE3vzm0XTx52JtIJCVqDLLp9/TTgHHE7UV4LJYXwvJ0uVvSqRAmGMConwk+EsYQlx3lZ5OklzVIPjdUyFG1Q6RcEpEEfWsIQFTpE43QfY41dB7WLTFiLY1x2RxN37UUDO6hqYfZ609Ipr9mBbn4F3ai1c0JDphVrcYBBCYnjF/GC8NwiOh+1Uw5mGd46F3/u/Cf7eZiFzv04MAfb3fMm+iFevAE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-3333ff-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(51, 51, 255); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(0, 0, 0); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-6d8764-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(109, 135, 100); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(0, 0, 0); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-fa6800-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(250, 104, 0); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(0, 0, 0); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M 0 70.15 C 0 51.55 6.26 33.7 17.4 20.55 C 28.54 7.39 43.65 0 59.4 0 L 270.6 0 C 286.35 0 301.46 7.39 312.6 20.55 C 323.74 33.7 330 51.55 330 70.15 L 330 689.85 C 330 708.45 323.74 726.3 312.6 739.45 C 301.46 752.61 286.35 760 270.6 760 L 59.4 760 C 43.65 760 28.54 752.61 17.4 739.45 C 6.26 726.3 0 708.45 0 689.85 Z Z M 13.2 68.21 L 13.2 691.79 L 318.45 691.79 L 318.45 68.21 Z" fill="rgb(255, 255, 255)" stroke="#c0c0c0" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="110.55" cy="15.59" rx="4.949999999999999" ry="5.846153846153846" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <rect x="125.4" y="713.23" width="79.2" height="27.28" rx="11.69" ry="11.69" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <rect x="127.05" y="13.64" width="74.25" height="9.74" rx="3.9" ry="3.9" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <ellipse cx="214.5" cy="15.59" rx="4.949999999999999" ry="5.846153846153846" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <ellipse cx="231" cy="15.59" rx="4.949999999999999" ry="5.846153846153846" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <ellipse cx="272.25" cy="23.38" rx="6.6" ry="7.794871794871795" fill="#ffffff" stroke="#c0c0c0" pointer-events="all"/>
+        <rect x="20" y="127" width="290" height="40" fill="rgb(255, 255, 255)" stroke="#999999" pointer-events="all"/>
+        <g fill="#666666" font-family="Arial,Helvetica" font-size="17px"/>
+        <ellipse cx="300" cy="144" rx="5" ry="5" fill="none" stroke="#008cff" pointer-events="all"/>
+        <path d="M 291 156 L 297 148" fill="none" stroke="#008cff" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 147px; margin-left: 25px;">
+                        <div data-drawio-colors="color: #666666; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(102, 102, 102); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Search
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="25" y="152" fill="#666666" font-family="Helvetica" font-size="17px">
+                    Search
+                </text>
+            </switch>
+        </g>
+        <rect x="20" y="170" width="288.84" height="318.73" fill="#ffffff" stroke="#000000" stroke-width="1.16" pointer-events="all"/>
+        <path d="M 37.33 170 L 34.83 175.31 L 26.93 170.21 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 26.55 193.16 L 35.98 193.59 L 35.41 201.45 L 44.84 203.78 L 41.76 229.28 L 31.36 226.73 L 30.59 234.17 L 21.54 232.9 L 23.85 222.06 L 20.39 221 L 20.39 206.97 L 26.16 201.87 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 45.23 185.3 L 42.15 181.69 L 46.96 170.64 L 65.45 170 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 49.85 192.31 L 68.53 178.92 L 73.34 188.91 L 52.93 202.51 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 83.16 192.95 L 89.9 205.27 L 52.54 226.95 L 54.47 221.63 L 54.85 211.86 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 75.07 173.82 L 81.62 185.3 L 86.82 181.69 L 97.03 201.45 L 115.7 191.67 L 106.65 170.43 L 79.89 170.21 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 123.6 188.7 L 115.7 170.21 L 137.46 170.21 L 151.71 179.14 L 136.89 194.44 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 130.72 201.24 L 128.22 200.6 L 123.41 188.06 L 133.04 184.66 L 138.43 193.16 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 159.99 173.61 L 156.72 170.43 L 162.5 170.21 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 167.89 181.9 L 164.04 178.08 L 171.36 170.21 L 180.41 170.21 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 202.36 176.59 L 196.2 170.21 L 207.75 170.43 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 209.68 182.11 L 219.3 171.7 L 222.38 172.98 L 218.53 186.15 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 189.46 204.64 L 206.21 187.42 L 217.76 194.01 L 208.52 222.48 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 197.16 196.77 L 206.21 187.85 L 217.76 194.01 L 213.53 206.33 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 225.08 191.04 L 228.55 179.14 L 241.26 187.21 L 229.7 200.17 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 251.27 177.65 L 242.8 170 L 258.01 170 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 259.16 178.08 L 265.13 172.13 L 281.12 183.81 L 274.38 190.19 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 278.81 199.54 L 288.24 189.97 L 308.85 205.49 L 308.65 222.7 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 287.86 177.86 L 277.26 170.43 L 289.97 170.21 L 292.28 172.55 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 301.72 177.01 L 307.5 170.43 L 309.23 170.64 L 308.85 183.39 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 232.98 206.76 L 254.16 182.75 L 269.95 194.65 L 239.33 222.27 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 223.35 208.46 L 234.52 228.86 L 223.93 238 L 215.07 228.43 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 256.28 219.3 L 271.1 205.49 L 282.85 214.62 L 275.34 232.47 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 280.73 236.72 L 288.43 218.45 L 305.96 231.41 L 288.63 243.1 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 295.56 247.34 L 309.04 238 L 308.65 256.91 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 280.54 262.43 L 288.63 254.36 L 306.92 267.32 L 297.1 277.94 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 249.92 246.49 L 254.73 230.56 L 282.85 249.68 L 266.1 261.16 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 265.52 281.55 L 268.41 273.06 L 266.1 268.38 L 275.15 266.68 L 292.48 283.25 L 284.58 295.37 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 239.14 237.15 L 248.96 225.46 L 250.88 226.73 L 250.31 230.35 L 244.91 242.67 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 211.02 258.61 L 235.09 241.18 L 240.68 246.71 L 225.27 262.22 L 229.89 268.38 L 223.73 274.12 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 231.82 263.49 L 241.64 251.59 L 249.92 259.03 L 240.1 271.35 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 250.5 269.87 L 254.93 263.92 L 260.7 269.87 L 259.74 277.73 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 247.42 295.58 L 229.12 279.43 L 234.32 274.97 L 240.49 280.7 L 245.3 276.03 L 257.43 284.32 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 253.19 298.76 L 262.63 288.57 L 280.15 303.23 L 278.04 308.12 L 271.68 310.24 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 306.15 283.04 L 298.64 295.37 L 309.04 301.31 L 309.23 284.74 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 297.87 321.08 L 301.53 315.34 L 309.04 318.1 L 308.46 327.03 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 289.97 341.9 L 294.02 328.94 L 305.76 333.61 L 299.22 344.24 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 276.5 385.03 L 287.28 352.1 L 295.94 352.1 L 308.08 357.62 L 294.02 395.66 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 300.18 399.48 L 304.22 388.22 L 308.85 389.71 L 308.85 404.58 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 306.92 381.85 L 309.04 375.68 L 309.04 381.85 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 267.25 416.27 L 274.57 395.23 L 308.85 414.99 L 308.65 439.64 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 258.78 444.32 L 265.13 425.62 L 309.04 450.48 L 308.85 470.03 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 253.97 463.02 L 256.85 454.52 L 309.23 480.01 L 309.23 483.63 L 305.38 485.54 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 251.85 471.09 L 287.66 486.6 L 286.7 488.51 L 259.36 488.51 L 247.42 484.26 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 227.2 485.96 L 225.66 489.36 L 197.74 488.51 L 201.97 475.34 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 234.32 478.53 L 209.48 467.05 L 214.87 454.73 L 238.75 466.2 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240.87 457.49 L 220.65 446.87 L 225.08 437.94 L 243.95 447.08 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240.49 410.32 L 253.39 418.82 L 246.07 440.07 L 228.93 431.99 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 248.57 405.86 L 257.62 385.03 L 263.21 389.07 L 255.89 410.53 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 266.29 359.11 L 270.91 361.45 L 265.33 379.72 L 259.93 376.75 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 258.97 332.13 L 264.94 318.53 L 281.5 325.96 L 277.65 338.92 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 253.97 344.45 L 256.66 338.29 L 274.95 346.79 L 272.26 354.44 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 251.08 351.04 L 255.7 353.59 L 249.54 369.31 L 244.14 366.55 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 249.15 340.2 L 238.56 362.94 L 231.82 358.9 L 242.41 337.01 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 258.78 316.83 L 251.27 333.61 L 245.11 330.64 L 251.85 314.06 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 245.3 310.88 L 224.89 355.29 L 214.3 348.91 L 239.91 307.9 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 207.17 344.45 L 201.59 341.05 L 227.58 303.23 L 232.01 304.93 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 220.27 296.22 L 196.97 332.76 L 190.03 318.95 L 213.91 290.27 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 207.56 284.53 L 184.06 313 L 178.29 315.76 L 163.85 319.38 L 161.73 313.85 L 168.85 309.6 L 168.27 305.35 L 199.85 275.61 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 175.4 316.83 L 164.04 319.59 L 161.73 313.64 L 169.04 309.6 L 168.66 305.35 L 170.2 303.65 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 166.54 327.88 L 182.72 323.84 L 190.61 341.9 L 174.24 349.55 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 178.1 358.26 L 196.2 348.7 L 202.17 352.95 L 185.03 378.66 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 187.92 390.35 L 209.48 356.56 L 221.23 363.15 L 195.23 410.96 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 199.66 418.39 L 209.87 402.03 L 228.93 412.23 L 219.88 426.89 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 213.72 396.08 L 228.16 369.31 L 245.49 378.23 L 233.17 405.64 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 162.88 189.55 L 179.64 206.76 L 174.63 211.65 L 161.54 199.32 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 185.03 213.35 L 216.03 244.58 L 208.52 249.26 L 180.98 218.87 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 156.72 186.15 L 154.79 201.87 L 168.85 218.02 L 160.19 226.1 L 142.86 200.39 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 175.01 224.61 L 204.48 256.06 L 189.46 270.51 L 165.77 235.45 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 160.19 241.82 L 183.49 276.67 L 166.54 292.82 L 153.64 288.35 L 144.2 261.58 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 161.54 297.07 L 154.99 294.94 L 153.45 287.5 L 160.76 282.62 L 167.12 292.6 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 128.8 242.24 L 143.63 283.68 L 136.5 290.9 L 108.19 284.1 L 110.12 266.89 L 117.44 261.58 L 113.01 251.38 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 143.24 281.55 L 145.36 287.29 L 145.17 294.3 L 136.31 290.9 L 134.77 290.69 L 136.89 281.13 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 141.7 250.53 L 136.89 236.72 L 150.56 228.43 L 154.03 233.96 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 135.15 228.43 L 129.76 215.05 L 137.46 208.46 L 145.55 221 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 128.03 232.9 L 109.16 244.58 L 104.34 230.35 L 122.44 220.15 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 121.29 212.07 L 102.03 223.55 L 96.83 212.28 L 117.05 200.81 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 76.81 237.57 L 70.84 227.37 L 90.09 216.96 L 95.29 226.1 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 92.02 236.51 L 97.41 246.92 L 87.2 253.08 L 81.62 248.62 L 82.2 241.82 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 66.22 230.77 L 81.24 257.76 L 71.61 264.13 L 54.85 237.15 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 75.07 269.23 L 84.89 262.01 L 103.77 266.47 L 99.91 283.25 L 85.47 286.02 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 158.26 407.34 L 180.21 391.41 L 201.01 454.94 L 196.97 459.83 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 149.21 403.1 L 183.1 446.23 L 172.32 444.74 L 143.43 408.19 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 185.03 456.85 L 195.62 465.99 L 187.15 488.51 L 142.28 488.73 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 39.26 447.93 L 62.56 476.19 L 49.27 489.15 L 28.47 488.73 L 29.44 456.85 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 20 466.41 L 31.17 455.15 L 46.57 473.64 L 30.78 488.94 L 20.19 489.36 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 35.6 443.68 L 20.39 457.07 L 20.39 438.37 L 27.13 433.48 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 50.81 429.66 L 45.61 422.43 L 69.1 400.97 L 68.72 395.02 L 82.01 383.55 L 88.17 385.25 L 91.25 390.56 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 49.66 392.26 L 61.59 407.77 L 54.85 413.29 L 42.34 398.42 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 58.32 385.03 L 34.06 406.49 L 20.19 386.73 L 42.34 365.27 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 92.4 373.98 L 99.34 368.04 L 106.85 377.17 L 96.26 386.1 L 92.21 381.63 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 48.89 241.39 L 78.73 291.33 L 73.53 296.43 L 81.62 308.33 L 78.73 310.88 L 55.05 274.33 L 58.9 271.57 L 48.31 253.93 L 38.1 261.16 L 45.23 275.61 L 40.99 278.37 L 33.87 268.59 L 35.6 256.69 L 45.61 249.89 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 45.8 259.03 L 52.54 268.8 L 48.5 272.2 L 42.72 261.37 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 40.41 286.44 L 51.2 277.94 L 68.33 303.44 L 63.52 307.05 L 49.08 288.35 L 44.07 291.12 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 44.65 326.6 L 42.72 324.9 L 44.65 313.21 L 58.13 314.06 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 39.83 324.69 L 37.14 325.11 L 30.78 314.49 L 39.45 314.91 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 26.55 319.59 L 35.02 327.66 L 32.9 330.85 L 25.2 326.18 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 28.47 308.33 L 30.21 290.9 L 36.56 290.9 L 39.83 295.58 L 38.29 309.18 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 32.13 274.12 L 37.52 280.49 L 31.75 283.04 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 24.62 287.93 L 20.39 308.75 L 20.77 287.29 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 76.23 316.4 L 47.15 340.41 L 49.27 343.39 L 77.96 320.23 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 43.3 343.6 L 44.65 345.51 L 30.59 357.62 L 29.82 355.71 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 66.02 341.05 C 66.02 341.05 82.97 325.11 82.97 325.11 C 82.97 325.11 100.3 345.72 100.3 345.72 C 100.3 345.72 82.78 363.36 82.78 363.36 C 82.78 363.36 79.31 360.17 79.31 360.17 C 79.31 360.17 69.1 346.15 69.1 346.15 C 69.1 346.15 65.83 341.26 65.83 341.26 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 62.36 344.87 C 62.36 344.87 65.83 349.97 65.83 349.97 C 65.83 349.97 74.11 364.42 74.11 364.42 C 74.11 364.42 77.38 368.67 77.38 368.67 C 77.38 368.67 61.4 383.76 61.4 383.76 C 61.4 383.76 44.84 361.02 44.84 361.02 C 44.84 361.02 62.75 344.87 62.75 344.87 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 24.81 332.98 C 24.81 332.98 26.93 334.04 26.93 334.04 C 26.93 334.04 33.48 345.51 33.48 345.72 C 33.48 345.94 20.77 357.2 20.77 357.2 C 20.77 357.2 20.39 337.44 20.39 337.44 C 20.39 337.44 24.81 333.19 24.81 333.19 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="39.74" cy="335.74" rx="3.754980079681275" ry="4.24988047808765" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" pointer-events="all"/>
+        <path d="M 47.54 329.58 L 71.42 309.81 L 74.11 314.28 L 50.62 334.25 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 25.2 282.4 L 27.7 271.14 C 26.92 268.14 25.63 266.2 24.19 265.91 C 22.76 265.62 21.35 267 20.39 269.66 L 20.39 281.55 L 25.01 282.62 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 20.77 253.72 L 32.71 256.06 L 30.78 266.89 C 28.69 262.88 24.78 260.44 20.58 260.52 L 20.58 253.29 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 92.4 295.58 C 100.79 293.25 109.54 293.04 118.02 294.94 C 125.45 295.88 132.64 298.41 139.2 302.38 C 139.78 311.52 146.16 318.92 154.41 320.01 L 167.89 353.37 L 153.83 359.96 L 161.54 381.63 L 175.21 376.11 L 180.41 391.83 L 161.73 404.79 L 149.02 389.28 L 86.24 455.37 L 68.72 434.75 L 83.74 418.61 C 92.6 421.77 102.32 418.76 108.39 410.96 L 104.73 407.77 L 111.66 401.61 L 113.97 404.37 C 120.86 398.19 123.93 388.19 121.87 378.66 L 105.31 362.09 L 115.7 350.61 L 89.71 316.61 L 99.14 305.99 L 92.4 295.58 Z" fill="#d87146" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 306.03 346.15 L 309.04 340.79 L 309.04 347.68 Z" fill="#ffca8c" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 117.94 434.88 C 117.94 434.88 136.66 415.76 136.66 415.76 C 136.66 415.76 146.36 425.45 146.36 425.45 C 146.36 425.45 123.95 437.94 123.95 437.94 C 123.95 437.94 117.94 435.14 117.94 435.14 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 114.47 438.2 L 121.87 440.75 C 117.46 445.7 117.46 453.64 121.87 458.6 L 114.24 460.64 L 103.61 450.44 L 114.47 438.2 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 102.22 451.46 C 110.98 465.13 124.89 470.08 137.35 463.95 L 139.2 468.28 C 132.98 476.94 124.47 479.56 116.78 475.17 L 119.32 470.58 L 107.54 466.75 L 99.91 454.01 L 102.22 451.46 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 97.37 456.05 C 97.37 456.05 104.77 467.01 104.77 467.01 C 104.77 467.01 101.99 471.09 101.99 471.09 C 101.99 471.09 111.93 478.74 111.93 478.74 C 111.93 478.74 108.93 482.82 108.93 482.82 C 108.93 482.82 86.51 468.03 86.51 468.03 C 86.51 468.03 97.14 455.79 97.14 455.79 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 114.93 478.74 C 114.93 478.74 121.87 480.52 121.87 480.52 C 121.87 480.52 121.4 488.17 121.4 488.17 C 121.4 488.17 108 489.19 108 489.19 C 108 489.19 114.93 478.99 114.93 478.99 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 149.83 430.55 C 149.83 430.55 153.75 434.63 153.75 434.63 C 153.75 434.63 140.35 458.34 140.35 458.34 C 140.35 458.34 127.41 454.26 127.41 454.26 C 127.41 454.26 131.8 438.71 131.8 438.71 C 131.8 438.71 149.83 430.55 149.83 430.55 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 157.22 439.98 C 157.22 439.98 161.61 445.85 161.61 445.85 C 161.61 445.85 142.2 467.77 142.2 467.77 C 142.2 467.77 140.81 463.95 140.81 463.95 C 140.81 463.95 156.99 439.98 156.99 439.98 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 165.31 448.14 L 175.01 452.73 L 130.88 488.94 L 124.41 488.68 L 125.1 481.29 C 130.64 481.22 135.97 478.96 140.12 474.91 C 149.98 467.84 158.53 458.75 165.31 448.14 Z" fill="#b2d8ad" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 149.79 326.6 L 158.26 341.26 L 152.68 348.91 L 141.12 335.95 Z" fill="#ffffff" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 99.91 312.15 L 111.47 300.89 L 127.45 318.95 L 114.74 331.91 Z" fill="#ffffff" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 134.19 340.63 L 144.01 351.25 L 136.89 359.32 L 127.64 347.21 Z" fill="#ffffff" stroke="#d87146" stroke-width="1.16" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="20.19" y="170.21" width="288.84" height="318.73" fill="none" stroke="#000000" stroke-width="2.31" pointer-events="all"/>
+        <rect x="37" y="500" width="260" height="140" rx="21" ry="21" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <image x="49.5" y="514.5" width="60" height="85" xlink:href="data:image/png;base64,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"/>
+        <rect x="50" y="515" width="60" height="85" fill="none" stroke="#99ffff" pointer-events="all"/>
+        <rect x="120" y="510" width="170" height="120" rx="18" ry="18" fill="url(#mx-gradient-3333ff-1-000000-1-s-0)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 570px; margin-left: 121px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Data
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="205" y="574" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Data
+                </text>
+            </switch>
+        </g>
+        <path d="M 297 524 L 317 567 L 297 610 Z" fill="url(#mx-gradient-6d8764-1-000000-1-s-0)" stroke="#3a5431" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 17 518 L 37 567.5 L 17 617 Z" fill="url(#mx-gradient-fa6800-1-000000-1-s-0)" stroke="#c73500" stroke-miterlimit="10" transform="rotate(-180,27,567.5)" pointer-events="all"/>
+        <rect x="217" y="230" width="50" height="20" fill="#f06000" stroke="#001dbc" pointer-events="all"/>
+        <g fill="#666666" font-family="Arial,Helvetica" font-size="17px"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 239px; margin-left: 223px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Name
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="223" y="244" fill="#ffffff" font-family="Helvetica" font-size="17px">
+                    Name
+                </text>
+            </switch>
+        </g>
+        <path d="M 205 390 L 195.99 377.51 C 193 373.04 193.81 367.06 197.88 363.53 C 201.96 360 208.04 360 212.12 363.53 C 216.19 367.06 217 373.04 214.01 377.51 Z" fill="#1ba1e2" stroke="#006eaf" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="205" cy="371.56" rx="2.40180135101326" ry="2.379300089223753" fill="none" stroke="#006eaf" stroke-width="2" pointer-events="all"/>
+        <path d="M 148 450 L 138.99 437.51 C 136 433.04 136.81 427.06 140.88 423.53 C 144.96 420 151.04 420 155.12 423.53 C 159.19 427.06 160 433.04 157.01 437.51 Z" fill="#1ba1e2" stroke="#006eaf" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="148" cy="431.56" rx="2.40180135101326" ry="2.379300089223753" fill="none" stroke="#006eaf" stroke-width="2" pointer-events="all"/>
+        <path d="M 90 395 L 80.99 382.51 C 78 378.04 78.81 372.06 82.88 368.53 C 86.96 365 93.04 365 97.12 368.53 C 101.19 372.06 102 378.04 99.01 382.51 Z" fill="#1ba1e2" stroke="#006eaf" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="90" cy="376.56" rx="2.40180135101326" ry="2.379300089223753" fill="none" stroke="#006eaf" stroke-width="2" pointer-events="all"/>
+        <path d="M 242 280 L 232.99 267.51 C 230 263.04 230.81 257.06 234.88 253.53 C 238.96 250 245.04 250 249.12 253.53 C 253.19 257.06 254 263.04 251.01 267.51 Z" fill="#008a00" stroke="#005700" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="242" cy="261.56" rx="2.40180135101326" ry="2.379300089223753" fill="none" stroke="#005700" stroke-width="2" pointer-events="all"/>
+        <path d="M 145 315 L 145 318.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 145 313.12 L 148.5 320.12 L 145 318.37 L 141.5 320.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="148" cy="300" rx="15" ry="15" fill="#e7dfb1" stroke="#0080f0" stroke-width="2" pointer-events="all"/>
+        <path d="M 137.5 301.5 L 155.5 292.5 L 146.5 310.5 L 146.5 301.5 Z" fill="#0080f0" stroke="none" pointer-events="all"/>
+        <rect x="270" y="450" width="40" height="40" rx="6" ry="6" fill="#ff33ff" stroke="rgb(0, 0, 0)" stroke-width="0.1" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 470px; margin-left: 271px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                +
+                                <br/>
+                                -
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="290" y="474" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    +...
+                </text>
+            </switch>
+        </g>
+        <rect x="20" y="80" width="130" height="40" rx="6" ry="6" fill="url(#mx-gradient-fa6800-1-000000-1-s-0)" stroke="#c73500" stroke-width="0.1" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 100px; margin-left: 21px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                Button1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="85" y="104" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Button1
+                </text>
+            </switch>
+        </g>
+        <rect x="160" y="80" width="110" height="40" rx="6" ry="6" fill="url(#mx-gradient-6d8764-1-000000-1-s-0)" stroke="#3a5431" stroke-width="0.1" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 100px; margin-left: 161px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#a55c18">
+                                    Button 2
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="215" y="104" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Button 2
+                </text>
+            </switch>
+        </g>
+        <rect x="280" y="80" width="30" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 280 120 C 280.22 117.09 280.52 114.19 280.9 111.31 C 281.06 109.22 281.48 107.17 282.14 105.22 C 282.51 104.33 283.06 103.57 283.76 103.01 C 284.93 102.17 286.2 101.53 287.52 101.09 C 288.09 100.89 288.71 101.09 289.1 101.61 C 290.65 103.51 292.86 104.5 295.11 104.31 C 297.3 104.44 299.43 103.45 300.94 101.61 C 301.43 101.07 302.13 100.87 302.78 101.09 C 304.03 101.61 305.23 102.28 306.35 103.09 C 307.37 104.01 308.09 105.29 308.38 106.74 C 308.83 108.81 309.14 110.92 309.32 113.05 L 310 120 Z M 295.19 99.44 C 291.08 99.55 287.69 95.33 287.59 90.01 C 287.53 87.36 288.31 84.8 289.74 82.92 C 291.18 81.04 293.15 80 295.19 80.06 C 297.16 80.13 299.04 81.23 300.39 83.09 C 301.74 84.96 302.47 87.45 302.41 90.01 C 302.32 95.14 299.15 99.29 295.19 99.44" fill="#505050" stroke="none" pointer-events="all"/>
+        <rect x="65" y="611" width="30" height="25" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 90 616.64 L 90.02 611.17 L 93.72 611.16 C 93.72 611.16 94.87 611.33 94.87 611.57 C 94.87 611.82 94.84 616.01 94.84 616.01 C 94.84 616.01 94.76 616.38 93.73 616.43 C 93.23 616.45 90 616.64 90 616.64 L 90 616.64 L 90 616.64 Z M 74.59 632.03 C 79.81 636 83.85 635.71 83.85 635.71 L 88.97 635.7 L 88.96 630.22 C 88.96 630.22 79.69 630.11 78.65 629.25 L 78.7 617.71 C 79.72 616.85 88.76 616.71 88.76 616.71 L 88.7 611.23 L 83.54 611.24 C 83.54 611.24 79.7 611 74.37 614.96 C 65 621.92 71.49 629.66 74.59 632.03 L 74.59 632.03 L 74.59 632.03 Z M 90.14 630.3 L 90.16 635.7 L 93.89 635.7 C 93.89 635.7 95 635.53 95 635.28 C 95 635.03 94.99 631.09 94.99 631.09 C 94.99 631.09 94.84 630.56 93.81 630.51 C 93.31 630.49 90.14 630.3 90.14 630.3 L 90.14 630.3 L 90.14 630.3 Z" fill="#80ff00" stroke="#00ff00" stroke-width="0.1" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 171.38 505.72 L 194.5 500 L 217.62 505.72 C 218.5 506.12 219 507.16 218.82 508.2 C 218.64 509.24 217.82 509.99 216.88 510 L 194.5 504.44 L 172.12 510 C 171.18 509.99 170.36 509.24 170.18 508.2 C 170 507.16 170.5 506.12 171.38 505.72 Z" fill="#c0c0c0" stroke="none" pointer-events="all"/>
+        <rect x="20" y="660" width="290" height="30" fill="#eeeeee" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 675px; margin-left: 56px;">
+                        <div data-drawio-colors="color: #666666; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(102, 102, 102); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Tab 1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="56" y="679" fill="#666666" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Tab 1
+                </text>
+            </switch>
+        </g>
+        <rect x="92.5" y="660" width="72.5" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 675px; margin-left: 129px;">
+                        <div data-drawio-colors="color: #666666; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(102, 102, 102); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Tab 2
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="129" y="679" fill="#666666" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Tab 2
+                </text>
+            </switch>
+        </g>
+        <rect x="92.5" y="687" width="72.5" height="3" fill="#33b5e5" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 675px; margin-left: 201px;">
+                        <div data-drawio-colors="color: #666666; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(102, 102, 102); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Tab 3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="201" y="679" fill="#666666" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Tab 3
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 675px; margin-left: 274px;">
+                        <div data-drawio-colors="color: #666666; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(102, 102, 102); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                Tab 4
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="274" y="679" fill="#666666" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    Tab 4
+                </text>
+            </switch>
+        </g>
+        <path d="M 223.97 675 L 243.97 675" fill="none" stroke="#666666" stroke-miterlimit="10" transform="rotate(90,233.97,675)" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
