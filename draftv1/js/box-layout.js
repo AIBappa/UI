@@ -9,7 +9,7 @@ function updateInfoBox(index) {
     document.getElementById('farmer-items').textContent = `Items: ${seller.items}`;
     document.getElementById('farmer-price').textContent = `Price: ${seller.price}`;
     document.getElementById('whatsapp-link').href = `https://wa.me/${seller.phone}?text=I'm%20interested%20in%20your%20products.`;
-    
+
     // Highlight selected marker and update map view
     markers.forEach((marker, idx) => {
         if (idx === index) {
@@ -44,5 +44,22 @@ function addArrowEventListeners() {
     });
 }
 
+// Close info box when clicking outside a seller marker
+function addMapClickEvent() {
+    map.on('click', function (e) {
+        // Check if the click occurred on a seller marker
+        var clickedOnSeller = markers.some(marker => {
+            var markerLatLng = marker.getLatLng();
+            return e.latlng.lat === markerLatLng.lat && e.latlng.lng === markerLatLng.lng;
+        });
+
+        // Hide info box if click was not on a seller marker
+        if (!clickedOnSeller) {
+            document.getElementById('info-box').classList.add('hidden');
+        }
+    });
+}
+
 // Call this function once to bind the event listeners
 addArrowEventListeners();
+addMapClickEvent();
