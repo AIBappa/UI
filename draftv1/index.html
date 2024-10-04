@@ -9,8 +9,15 @@
 </head>
 <body>
     <div class="app-container">
+        <!-- Map container -->
         <div id="map"></div>
+
+        <!-- Info box for seller details -->
         <div id="info-box" class="info-box hidden">
+            <!-- Arrow for previous seller -->
+            <div class="arrow left-arrow" id="prev">&#9664;</div>
+
+            <!-- Info content (Image, Name, Items, Price, WhatsApp) -->
             <div class="info-content">
                 <img id="farmer-image" src="" alt="Farmer Image">
                 <div id="farmer-details">
@@ -23,16 +30,17 @@
                         Call via WhatsApp
                     </a>
                 </div>
-                <div class="arrow left-arrow">&#9664;</div>
-                <div class="arrow right-arrow">&#9654;</div>
             </div>
+
+            <!-- Arrow for next seller -->
+            <div class="arrow right-arrow" id="next">&#9654;</div>
         </div>
     </div>
 
+    <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <!-- Custom JS -->
     <script src="js/box-layout.js"></script>
     <script src="js/script.js"></script>
 </body>
 </html>
-
-
