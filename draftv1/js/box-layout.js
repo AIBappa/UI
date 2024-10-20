@@ -9,7 +9,7 @@ function updateInfoBox(index) {
     document.getElementById('farmer-items').textContent = `Items: ${seller.items}`;
     document.getElementById('farmer-price').textContent = `Price: ${seller.price}`;
     document.getElementById('whatsapp-link').href = `https://wa.me/${seller.phone}?text=I'm%20interested%20in%20your%20products.`;
-
+    
     // Highlight selected marker and update map view
     markers.forEach((marker, idx) => {
         if (idx === index) {
@@ -23,7 +23,7 @@ function updateInfoBox(index) {
     document.getElementById('info-box').classList.remove('hidden');
 }
 
-// Add arrow event listeners once, outside the dynamic content update
+// Add event listeners for navigation arrows
 function addArrowEventListeners() {
     document.getElementById('prev').addEventListener('click', function() {
         if (currentSellerIndex > 0) {
@@ -44,22 +44,13 @@ function addArrowEventListeners() {
     });
 }
 
-// Close info box when clicking outside a seller marker
-function addMapClickEvent() {
-    map.on('click', function (e) {
-        // Check if the click occurred on a seller marker
-        var clickedOnSeller = markers.some(marker => {
-            var markerLatLng = marker.getLatLng();
-            return e.latlng.lat === markerLatLng.lat && e.latlng.lng === markerLatLng.lng;
-        });
-
-        // Hide info box if click was not on a seller marker
-        if (!clickedOnSeller) {
-            document.getElementById('info-box').classList.add('hidden');
-        }
+// Add event listener for closing the info box when clicking the "X" button
+function addCloseButtonListener() {
+    document.getElementById('close-info-box').addEventListener('click', function() {
+        document.getElementById('info-box').classList.add('hidden'); // Hide the info box
     });
 }
 
 // Call this function once to bind the event listeners
 addArrowEventListeners();
-addMapClickEvent();
+addCloseButtonListener();

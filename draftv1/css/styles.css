@@ -2,9 +2,9 @@
 :root {
     --container-width: 360px;
     --container-height: 640px;
-    --image-size: 50px; /* Increased image size */
+    --image-size: 10px;
     --arrow-size: 25px;
-    --font-size: 16px; /* Adjusted font size */
+    --font-size: 20px;
     --whatsapp-icon-size: 20px;
 }
 
@@ -13,9 +13,9 @@
     :root {
         --container-width: 640px;
         --container-height: 360px;
-        --image-size: 60px;
-        --arrow-size: 28px;
-        --font-size: 18px;
+        --image-size: 12px;
+        --arrow-size: 40px;
+        --font-size: 22px;
         --whatsapp-icon-size: 22px;
     }
 }
@@ -25,9 +25,9 @@
     :root {
         --container-width: 480px;
         --container-height: 800px;
-        --image-size: 70px;
-        --arrow-size: 30px;
-        --font-size: 20px;
+        --image-size: 15px;
+        --arrow-size: 80px;
+        --font-size: 50px;
         --whatsapp-icon-size: 25px;
     }
 }
@@ -36,9 +36,9 @@
     :root {
         --container-width: 800px;
         --container-height: 480px;
-        --image-size: 80px;
+        --image-size: 18px;
         --arrow-size: 32px;
-        --font-size: 22px;
+        --font-size: 50px;
         --whatsapp-icon-size: 28px;
     }
 }
@@ -48,9 +48,9 @@
     :root {
         --container-width: 768px;
         --container-height: 1024px;
-        --image-size: 100px;
-        --arrow-size: 35px;
-        --font-size: 24px;
+        --image-size: 20px;
+        --arrow-size: 20px;
+        --font-size: 28px;
         --whatsapp-icon-size: 30px;
     }
 }
@@ -73,105 +73,61 @@
 /* Info box size */
 .info-box {
     position: absolute;
-    bottom: 10px;
-    left: 10px;
-    width: calc(100% - 20px);
-    max-height: 40%;
-    background-color: white;
+    bottom: 30px; /* Position the box from the bottom */
+    left: 10px; /* Position the box from the left */
+    width: calc(100% - 100px); /* Full width minus padding */
+    max-height: 40%; /* Maximum height */
+    background-color: darkorange;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
     display: flex;
-    align-items: flex-start;
-    padding: 10px;
+    flex-direction: column; /* Arrange content vertically */
+    padding: 5px;
     box-sizing: border-box;
     z-index: 1000;
+    overflow: hidden; /* Prevent overflow */
+}
+
+/* Close button style */
+.close-button {
+    position: absolute;
+    top: 5px; /* Position from the top */
+    right: 10px; /* Position from the right */
+    font-size: var(--font-size);
+    cursor: pointer;
+    z-index: 1001; /* Ensure it's above other elements */
+}
+
+/* Container for arrows */
+.arrows-container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center arrows horizontally */
+    align-items: center; /* Center arrows vertically */
+    margin: 10px 0; /* Add some space above and below the arrows */
 }
 
 /* Content inside the info box */
 .info-content {
     display: flex;
-    flex-direction: column; /* Align items vertically */
-    justify-content: flex-start;
+    align-items: flex-start;
     width: 100%;
+    justify-content: flex-start; /* Align to the left */
+    padding-top: 10px; /* Adjust padding for space below the arrows */
 }
 
-/* Farmer image styling */
-#farmer-image {
-    width: var(--image-size);
-    height: var(--image-size);
-    margin-bottom: 10px; /* Space between image and name */
-    border-radius: 50%;
-}
-
-/* Farmer name styling */
-#farmer-name {
-    font-size: var(--font-size);
-    font-weight: bold;
-    margin: 0;
-    text-align: left;
-}
-
-/* Items for sale styling */
-#farmer-items {
-    margin-top: 10px;
-    font-size: var(--font-size);
-    font-weight: bold;
-    text-align: center;
-}
-
-/* Price styling */
-#farmer-price {
-    margin-top: 5px;
-    font-size: var(--font-size);
-    color: #666;
-    text-align: center;
-}
-
-/* WhatsApp link styling */
-#whatsapp-link {
-    margin-top: 10px;
-    color: #25D366;
-    text-decoration: none;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#whatsapp-link:hover {
-    text-decoration: underline;
-}
-
-/* WhatsApp icon */
-.whatsapp-icon {
-    width: var(--whatsapp-icon-size);
-    height: var(--whatsapp-icon-size);
-    margin-right: 5px;
-}
-
-/* Styles for arrows */
+/* Styles for individual arrows */
 .left-arrow, .right-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
     width: var(--arrow-size);
     height: var(--arrow-size);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
+    display: flex; /* Use flex to center content */
+    justify-content: center; /* Center the content */
+    align-items: center; /* Center the content vertically */
+    cursor: crosshair;
     font-size: var(--font-size);
-    background-color: white;
+    background-color: blue;
     border: 1px solid #ddd;
-    border-radius: 50%;
-    z-index: 1001;
-}
-
-.left-arrow {
-    left: 10px;
-}
-
-.right-arrow {
-    right: 10px;
+    border-radius: 50%; /* Perfect circles */
+    z-index: 1001; /* Ensure it's above other elements */
+    margin: 0 5px; /* Space between arrows */
 }
 
 .arrow:hover {
@@ -179,19 +135,39 @@
 }
 
 .arrow:active {
-    transform: translateY(-50%) scale(0.9);
+    transform: translateY(-2%) scale(0.9); /* Slightly reduce Y translation for better effect */
 }
 
-/* Marker icon styling */
 .marker-icon {
-    color: blue;
+    color: green;
     font-size: var(--font-size);
 }
 
 .marker-icon.selected {
-    color: orange;
+    color: green;
 }
 
 .hidden {
     display: none;
+}
+
+/* WhatsApp link styling */
+.whatsapp-icon {
+    width: var(--whatsapp-icon-size);
+    height: var(--whatsapp-icon-size);
+    margin-right: 20px;
+    vertical-align: sub;
+}
+
+#whatsapp-link {
+    color: #25D366;
+    text-decoration: none;
+    font-weight: bold;
+    display: flex;
+    align-items: left;
+    margin-top: 10px;
+}
+
+#whatsapp-link:hover {
+    text-decoration: underline;
 }
